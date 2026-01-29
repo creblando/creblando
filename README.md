@@ -13,9 +13,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=creblando&show_icons=true&theme=tokyonight&hide_border=false" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=creblando&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=creblando&show_icons=true&theme=tokyonight&hide_border=false" height="150" alt="stats graph" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=creblando&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
+  </a>
 </div>
 
 ###
@@ -69,7 +72,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=creblando.creblando" />
+  <img src="https://komarev.com/ghpvc/?username=creblando&label=Profile%20Views&color=blueviolet&style=flat" alt="creblando" />
 </div>
 
 ###
