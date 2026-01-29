@@ -60,6 +60,14 @@
 ###
 
 <div align="center">
+    <a href="https://open.spotify.com/user/urameshiii">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qgzxca2vjb2wjgmt5zsitewt2a&count=5" alt="Spotify recently played" />
+    </a>
+</div>
+
+###
+
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=creblando.creblando" />
 </div>
 
