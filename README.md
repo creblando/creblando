@@ -13,10 +13,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=creblando&show_icons=true&theme=tokyonight&hide_border=false&v=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=creblando&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&v=1" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=creblando&theme=tokyonight&show_icons=true&hide_border=true&v=99" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creblando&theme=tokyonight&layout=compact&hide_border=true&v=99" height="150" alt="languages graph" />
 </div>
-
 ###
 
 <div align="center">
