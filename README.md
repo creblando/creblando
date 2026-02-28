@@ -7,17 +7,15 @@
 ###
 
 <div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=creblando&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="150"
+  />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=creblando&layout=compact&theme=tokyonight&hide_border=true" 
+    height="150"
+  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=creblando&theme=tokyonight&show_icons=true&hide_border=true&v=99" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creblando&theme=tokyonight&layout=compact&hide_border=true&v=99" height="150" alt="languages graph" />
-</div>
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" alt="react logo" />
