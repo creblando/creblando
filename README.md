@@ -8,12 +8,12 @@
 
 <div align="center">
   <img 
+    width="48%"
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=creblando&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="150"
   />
   <img 
+    width="48%"
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=creblando&layout=compact&theme=tokyonight&hide_border=true" 
-    height="150"
   />
 </div>
 
