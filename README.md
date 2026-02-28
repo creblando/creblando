@@ -13,12 +13,8 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=creblando&show_icons=true&theme=tokyonight&hide_border=false" height="150" alt="stats graph" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=creblando&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=creblando&show_icons=true&theme=tokyonight&hide_border=false&v=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=creblando&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&v=1" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -69,7 +65,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/creblando/creblando/output/snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/creblando/creblando/output/snake.svg?v=1" alt="Snake animation" width="100%" />
 </div>
 
 ###
